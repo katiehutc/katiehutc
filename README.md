@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi! My name is Katie Hutchinson and I am a student at the University of Virginia!
+- I am studying Computer Science with a minor in Data Science
+- I love working in Java and Python!
 <!--
 **katiehutc/katiehutc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +16,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-** My name is Katie Hutchinson and I am a student at the University of Virginia! ** 
