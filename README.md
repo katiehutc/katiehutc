@@ -1,4 +1,4 @@
-## ˗ˏˋ ★ ˎˊ˗  Hi! My name is Katie Hutchinson and I am a student at the University of Virginia! ˗ˏˋ ★ ˎˊ˗ 
+## ˗ˏˋ ★ ˎˊ˗  Hi! My name is Katie and I am a student at the University of Virginia! ˗ˏˋ ★ ˎˊ˗ 
 - I am studying Computer Science with a minor in Data Science
 - I love working in Java and Python!
 <!--
