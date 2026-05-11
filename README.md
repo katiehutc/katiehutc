@@ -1,7 +1,7 @@
 ## ˗ˏˋ ★ ˎˊ˗  Hi! My name is Katie and I am a student at the University of Virginia! ˗ˏˋ ★ ˎˊ˗ 
 - I am studying Computer Science with a minor in Data Science
 - I love working in Java and Python!
-- I am interested in full-stack software engineering, data engineering, and virtual reality development :)
+- I am interested in full-stack software engineering, data engineering, VR, and AI/ML
 - view my website on: [katherinehutchinson.com](https://www.katherinehutchinson.com) - and feel free to checkout github.com/katiehutc/portfolio for more info
 <!--
 **katiehutc/katiehutc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
